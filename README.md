@@ -12,7 +12,7 @@ Set-ExecutionPolicy Unrestricted;Invoke-WebRequest -Uri https://github.com/accel
 Or you can download the script and binaries from [here](https://github.com/acceleration3/cloudgamestream/archive/master.zip).
 
 ## Bugs
-~~Changing the resolution while GameStream is enabled in GeForce Experience will remove all resolutions from the monitor resolutions list.~~ **(Fixed)** If you ran an earlier version of this script, download manually (without using the powershell commands), go into the Steps folder and run Step 3 (3_Apply_Fixes.ps1).
+* **(Fixed)** ~~Changing the resolution while GameStream is enabled in GeForce Experience will remove all resolutions from the monitor resolutions list.~~  If you ran an earlier version of this script, download manually (without using the powershell commands), go into the Steps folder and run Step 3 (3_Apply_Fixes.ps1).
 
 
 ## Compatibility
